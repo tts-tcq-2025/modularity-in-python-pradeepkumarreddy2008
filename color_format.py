@@ -20,7 +20,6 @@ def format_color_reference_manual():
 
     return manual
 
-
 def print_color_reference_manual():
     """Print the color reference manual."""
     print(format_color_reference_manual())
