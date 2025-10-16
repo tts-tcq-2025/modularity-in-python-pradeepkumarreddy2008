@@ -2,7 +2,6 @@
 
 from color_constants import MAJOR_COLORS, MINOR_COLORS
 
-
 def color_pair_to_string(major_color, minor_color):
     """Convert color pair to string representation."""
     return f'{major_color} {minor_color}'
