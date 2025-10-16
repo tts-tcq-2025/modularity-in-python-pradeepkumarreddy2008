@@ -1,4 +1,3 @@
-
 """Main module for 25-pair color code application."""
 
 from test_color_functions import run_all_tests
